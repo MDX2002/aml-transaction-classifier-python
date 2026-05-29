@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+
+# Data folder (all subfolders and files inside)
+data/
+
+# Jupyter, cache, logs, etc. (rest as before)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+*.png
+kaggle.json
+.vscode/
+.DS_Store
